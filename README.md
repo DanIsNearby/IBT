@@ -9,6 +9,8 @@ Welcome to the future of digital ownership, where the boundaries between the vir
 ## What Are IBTs?
 
 **Identity Bound Tokens (IBTs)** are not your average tokens; they are a quantum leap forward in the world of digital assets. These tokens uniquely combine the concepts of identity, ownership, and authenticity to create an entirely new paradigm for digital property.
+![IBT explainer](https://github.com/DanIsNearby/IBT/assets/91475837/0dd06133-82c7-436d-a737-08ac0fbe5dc6)
+
 
 ## Embracing the Power of Identity
 
