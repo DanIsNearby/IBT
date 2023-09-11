@@ -1,0 +1,24 @@
+{
+  "name": "identityboundtoken_app",
+  "version": "1.0.0",
+  "description": "A Soul Bound Token built on Lisk SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "genesis": {
+    "chainID": "1"
+  },
+  "keywords": [
+    "A",
+    "Lisk",
+    "Soul",
+    "Bound",
+    "Token"
+  ],
+  "author": "Adegbenga Ogungbeje",
+  "license": "ISC",
+  "dependencies": {
+    "lisk-sdk": "^6.1.0-beta.1"
+  }
+}
