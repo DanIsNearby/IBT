@@ -35,3 +35,7 @@ IBTs have the power to immortalize your most cherished memories and achievements
 In summary, Identity Bound Tokens (IBTs) are the future of digital ownership. They are revolutionizing how we interact with digital assets by introducing a new era of identity, authenticity, and personalization.
 
 Join us on this extraordinary journey as we unlock the full potential of IBTs and reshape the future of digital ownership.
+
+## Learn more about IBTs in the video below
+https://www.youtube.com/watch?v=3KoIfS6bDUw
+
